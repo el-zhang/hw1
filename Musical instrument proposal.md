@@ -1,4 +1,4 @@
-Musical instrument proposal - heart instrument
+##Musical instrument proposal - heart instrument
 
 The concept is to make person's natural heartbeats into a melody, which means everyone will have his own special real time melody.
 
