@@ -1,0 +1,13 @@
+start
+
+  define the veriables: color, speed
+  
+  function 
+    loop
+      determine color = map(accelerometer)
+      determine speed = map(force sensitive resistor) 
+      send the data to PC
+      draw a firework
+    end
+end
+    
