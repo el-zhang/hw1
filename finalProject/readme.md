@@ -11,4 +11,3 @@ A working project, controled by two sensors and a firework is shown on the scree
  2. -Several fireworks shown together
  3. -Several fireworks work on screen together triggered real time by using another axis of the accelerometer
 
-Include flow charts, block diagrams, and pseudo-code
