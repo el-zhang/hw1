@@ -7,8 +7,8 @@ I want to make a firework machine. I will have a force sensitive resistor and an
 A working project, controled by two sensors and a firework is shown on the screen one by one.
 
 ##### Optional add-ons
-⋅⋅⋅-Sound⋅⋅
-⋅⋅⋅-Several fireworks shown together⋅⋅
-⋅⋅⋅-Several fireworks work on screen together triggered real time by using another axis of the accelerometer⋅⋅
+⋅⋅⋅ -Sound⋅⋅
+⋅⋅⋅ -Several fireworks shown together⋅⋅
+⋅⋅⋅ -Several fireworks work on screen together triggered real time by using another axis of the accelerometer⋅⋅
 
 Include flow charts, block diagrams, and pseudo-code
