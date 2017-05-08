@@ -8,5 +8,5 @@ How the fireworks will be shown on the screen is quite controlled by the user: p
 In the project, I want to make something people can hold in hand and wave to trigger fireworks, so I came up with the idea of using their movement to control. As I want some beautiful fireworks, one more thing need to be measured during their holding and waving, it could be force or temperature, and I chose force, for people may have different basic body temperature which may cause troubles. there are three main varieties I need to measure: the x-axis angle, the z-axis acceleration, and the force. So I chose BNO055 which can sense angle and acceleration at the same time. As my controller is a quite square, I chose a square FSR.
 
 ##### Parts list
-Adafruit BNO055 Absolute Orientation Sensor
-Square Force-Sensitive Resistor (FSR) - Interlink 406
+* Adafruit BNO055 Absolute Orientation Sensor
+* Square Force-Sensitive Resistor (FSR) - Interlink 406
